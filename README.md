@@ -204,4 +204,4 @@ This repository serves as the official landing page for Heroes of Loot. The soft
 **Get the most recent version of Heroes of Loot today!**
 
 ---
-**Last updated:** 2026-11-11 10:30:28 UTC
+**Last updated:** 2026-11-11 18:28:07 UTC
